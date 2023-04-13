@@ -1,0 +1,5 @@
+NPR - 3
+ROS - 3
+MPR - 3
+JAJ - 5
+PLO - 5
