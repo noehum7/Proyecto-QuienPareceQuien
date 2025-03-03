@@ -111,7 +111,7 @@ public class PantallaInicio extends javax.swing.JFrame {
 
   /**
    * Con este método abriremos una nueva ventana que será la del juego principal.
-   * Creamos una pantalla nueva que será la del juego y cerramos la actual. nj
+   * Creamos una pantalla nueva que será la del juego y cerramos la actual. 
    * @param evt evento que desencadena la ejecución del método
    */
   private void bNuevaPartidaActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_bNuevaPartidaActionPerformed

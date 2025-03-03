@@ -1,5 +1,9 @@
+NOE - 1
+FAD - 3
 NPR - 3
 ROS - 3
 MPR - 3
+NOE - 5
+JAA - 5
 JAJ - 5
 PLO - 5
